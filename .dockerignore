@@ -1,0 +1,7 @@
+.git
+.idea
+*.iml
+build
+out
+deploy.bat
+Main.java
